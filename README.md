@@ -97,7 +97,8 @@ The video will be saved in a new folder called `output` and the file name will b
 
 
 [rustup]: https://www.rust-lang.org/tools/install
-[ForLinux]: https://github.com/Aavtic/thamburaan/releases/download/1.0/thamburaan.1.0
+[ForLinux]: https://github.com/Aavtic/thamburaan/releases/download/1.0/thamburaan.1.0.Linux.0
+[ForWindows]: https://github.com/Aavtic/thamburaan/releases/download/1.0/thamburaan.exe.Windows.exe
 [Git Download]: https://git-scm.com/downloads
 [CloudTTS]: https://cloudtts.com/about.html 
 
