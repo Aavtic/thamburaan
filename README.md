@@ -13,7 +13,7 @@
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-  - [if you compilee](#if-you-compile)
+  - [if you compile](#if-you-compiled)
   - [generated video](#generated-video)
 - [APIs Used](#apis-used)
 - [Licesnse](#license)
@@ -36,8 +36,10 @@ Thamburaan is a auto-caption program for generation word by word captioning on a
 ### Modes
 <details>
 <summary>Modes of Installation</summary>
+    
 - [Manually Compiling](#Compile)
 - [Downloading-executable](#Downloads)
+
 </details>
 
 ### Compile
