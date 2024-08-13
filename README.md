@@ -45,7 +45,7 @@ Thamburaan is a auto-caption program for generation word by word captioning on a
 ### Compile
 You can clone this repo using git 
 ```shell
-git clone https://github.com/Aavtic/thamburaaan
+git clone https://github.com/Aavtic/thamburaan
 ```
 Thamburaan is written in Rust and you will have to install [rustup] to compile this program.
 
